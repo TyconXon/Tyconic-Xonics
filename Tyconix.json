@@ -1,0 +1,13 @@
+{
+    "id": "MAX",
+    "name": "Tyconic Xonics",
+    "author": ["Maximus Fayte Miller"],
+    "description": "What",
+    "prefix": "txon",
+    "main_file": "Tyconix.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
